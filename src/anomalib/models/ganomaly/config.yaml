@@ -1,7 +1,7 @@
 dataset:
   name: mvtec
   format: mvtec
-  path: ./datasets/MVTec
+  path: ./content/drive/MyDrive/Blast Ai 2023/images
   category: bottle
   task: classification
   train_batch_size: 32
