@@ -1,7 +1,7 @@
 dataset:
   name: mvtec
   format: mvtec
-  path: ./datasets/MVTec
+  path: ./datasets/MVTe
   category: bottle
   task: classification
   train_batch_size: 32
